@@ -1,0 +1,96 @@
+Exploratory Data Analysis (EDA) & Business Intelligence
+1. Descriptive Statistics
+Calculated key statistical measures for numerical variables:
+* Mean
+* Median
+* Standard Deviation
+* Minimum
+* Maximum
+Analyzed:
+* Price
+* Number of Subscribers
+* Number of Reviews
+* Content Duration
+
+2. Univariate Analysis
+Created visualizations to understand data distribution:
+* Price Histogram
+* Subscriber Histogram
+* Review Distribution Analysis
+Key findings:
+* Most courses are priced in lower ranges.
+* Subscriber distribution is highly skewed.
+* A small number of courses attract very high engagement.
+
+
+
+
+3. Business Questions Analysis
+Answered key business questions using Pivot Tables and Excel analysis tools.
+Questions addressed:
+1. Which subject has the highest number of subscribers?
+2. Which courses have the highest review counts?
+3. Which course level has the highest enrollments?
+4. What is the average course price by subject?
+5. What is the distribution of paid versus free courses?
+
+4. Multivariate Analysis & Correlation
+Performed relationship analysis among numerical variables using:
+* Scatter Plots
+* Correlation Matrix
+* Heat Map
+Variables analyzed:
+* Price
+* Number of Subscribers
+* Number of Reviews
+* Content Duration
+Key finding:
+* Reviews and subscribers show a positive correlation, indicating that highly reviewed courses tend to attract more enrollments.
+
+
+
+
+
+5. Dashboard Development
+Created an interactive dashboard summarizing the most important insights.
+Dashboard Components:
+* Total Courses KPI
+* Total Subscribers KPI
+* Average Price KPI
+* Total Reviews KPI
+* Price Distribution
+* Subscriber Distribution
+* Subject Analysis
+* Paid vs Free Course Analysis
+* Correlation Heatmap
+* Key Business Insights
+
+Tools Used
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Histograms
+* Scatter Plots
+* Conditional Formatting
+* Dashboard Design
+
+Key Insights
+* Most Udemy courses are priced at lower price ranges.
+* Subscriber counts are highly concentrated among a small number of courses.
+* Beginner and All-Level courses attract significant enrollments.
+* Paid courses dominate the platform.
+* Reviews have a strong positive relationship with subscriber growth.
+* Course duration has a moderate relationship with pricing.
+
+Project Files
+* Data Cleaning Workbook
+* EDA Analysis Sheets
+* Business Intelligence Reports
+* Correlation Analysis
+* Dashboard
+
+Author
+Joshi Rasagna
+Data Analytics Internship Project
+Excel | Data Cleaning | EDA | Business Intelligence | Dashboarding
+
